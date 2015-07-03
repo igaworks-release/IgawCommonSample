@@ -23,5 +23,5 @@ IGAWorks의 모든 서비스는 공통 모듈 + 애드온의 형태로 제공 �
 
 # Igaworks Common 연동하기
 연동 가이드와 샘플 프로젝트를 참고하여 연동을 진행합니다. </br>
-[Igaworks Common 연동문서 바로가기](http://help.igaworks.com/hc/ko/3_3/Content/Article/common_aos)
+<a href="http://help.igaworks.com/hc/ko/3_3/Content/Article/common_aos" target="_blank">Igaworks Common 연동문서 바로가기</a>
 
