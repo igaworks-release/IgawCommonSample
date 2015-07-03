@@ -16,3 +16,7 @@ IGAWorks의 모든 서비스는 공통 모듈 + 애드온의 형태로 제공 �
 1. Open Android Studio
 1. VCS > Checkout from Version Control > Git
 1. Paste to Vcs Repository URL, Clone
+
+# Common Sample 실행
+1. IGAW 홈페이지에서 발급받은 **앱키, 해시키**를 AndroidManifest.xml 파일에 입력
+1. 실행
